@@ -1,0 +1,26 @@
+{
+  "name": "drill-closure-library",
+  "version": "1.0.0",
+  "description": "Closure Libraryの練習",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KASHIHARAAkira/drill-closure-library.git"
+  },
+  "keywords": [
+    "closure",
+    "library"
+  ],
+  "author": "Akira Kashihara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KASHIHARAAkira/drill-closure-library/issues"
+  },
+  "homepage": "https://github.com/KASHIHARAAkira/drill-closure-library#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
