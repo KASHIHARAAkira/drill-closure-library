@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 20px 10%;
+    font-size: 30px;
+    background: #ffecb3;
+}
+
+main {
+    margin: 20px 10%;
+}
+
+footer {
+    text-align: center;
+}
