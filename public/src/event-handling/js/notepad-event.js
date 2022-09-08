@@ -3,8 +3,8 @@
  * このソフトウェアは、 Apache 2.0ライセンスで配布されている製作物が含まれています。
  * 
  * This source code is based on the source code which is distributed on 
- * https://developers.google.com/closure/library/docs/tutorial with Japanese comment.
- * このソースコードは、https://developers.google.com/closure/library/docs/tutorial に記載・配布されている
+ * https://developers.google.com/closure/library/docs/events_tutorial with Japanese comment.
+ * このソースコードは、https://developers.google.com/closure/library/docs/events_tutorial に記載・配布されている
  * コードに、日本語のコメントを追加したものです。
  * 
  * このコードは、タイトルとコンテンツが含まれたノートを作成するものです。
